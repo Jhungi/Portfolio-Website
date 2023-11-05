@@ -9,6 +9,7 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface
 
 ## Portfolio website preview
-  ![portfolio image final](https://github.com/Mdavid508/portfolio-responsive-complete/assets/81154696/61982238-b01b-4c31-a8c4-e82304a2663e)
+  ![Screenshot (1 new](https://github.com/Jhungi/Portfolio-Website/assets/149946560/87e05f73-ea92-40c2-8fd9-c7b1eab716b7)
+
 
 
